@@ -1,0 +1,14 @@
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\bin\Debug\net8.0\ProjetoProxy.exe
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\bin\Debug\net8.0\ProjetoProxy.deps.json
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\bin\Debug\net8.0\ProjetoProxy.runtimeconfig.json
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\bin\Debug\net8.0\ProjetoProxy.dll
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\bin\Debug\net8.0\ProjetoProxy.pdb
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ProjetoProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ProjetoProxy.AssemblyInfoInputs.cache
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ProjetoProxy.AssemblyInfo.cs
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ProjetoProxy.csproj.CoreCompileInputs.cache
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ProjetoProxy.dll
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\refint\ProjetoProxy.dll
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ProjetoProxy.pdb
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ProjetoProxy.genruntimeconfig.cache
+C:\Users\vntrogu\Desktop\Proxy\ProjetoProxy\obj\Debug\net8.0\ref\ProjetoProxy.dll
